@@ -1,0 +1,8 @@
+.nav{
+    background-color: rgb(25, 22, 85);
+    color: white;
+}
+input , button{
+    margin: 10px;
+    border-radius: 6px;
+}
