@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import bootstrap from "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import swal from 'sweetalert';
+
 export default function Body() {
 
     const [name, setName] = useState('');
@@ -31,11 +32,12 @@ export default function Body() {
 
 
     return <div>
+
         <div className="row justify-content-center">
             <div className="col-md-6">
                 <img
                     src="https://thumbs.dreamstime.com/b/facebook-related-news-headlines-background-photo-new-friends-global-communication-social-network-global-connecting-36091939.jpg"
-                    width='560px' alt=""
+                    width='650px' alt=""
                 />
 
             </div>

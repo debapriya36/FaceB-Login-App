@@ -1,10 +1,12 @@
 import React from 'react';
-
 export default function Dashboard()
 {
     return <div>
     <h1>
-        This is  FB dashboard
+        Welcome to FaceBook dashboard
+        <br />
     </h1>
     </div>
 }
+
+
